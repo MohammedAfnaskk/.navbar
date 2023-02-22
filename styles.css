@@ -1,0 +1,136 @@
+
+
+*{
+   padding: 0;
+   margin:0;
+}
+ .fullbody{
+    background-color: black;
+    width:100%;
+    height: 2388px;
+    margin: 0%;    
+ }
+.head{
+     left: 175px; ;
+    width:100%;
+    height: 159px;
+    background-color:rgb(0, 0, 0);
+}
+.logo {
+position:relative;
+color: #999999;
+top: 44px;
+font-size: 44px;
+background-color: black;
+line-height: 50.6px;
+letter-spacing: 6.5px;
+text-align: center;
+}
+.secondword{
+   position: relative;
+   color: #999999;
+   top:44px;
+   font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+   background-color: black;
+   font-size: 14px;
+   line-height: 21px;
+   text-align: center;
+   letter-spacing: 5px;
+}
+.hr{
+   height: 0.5px;
+  background-color: #333333;
+  margin-left: 45px;
+  margin-right:45px;
+}
+.red{
+   background-color: red;
+   height:0.5px ;
+   margin-left: 260px;
+   margin-right: 960px;
+}
+.container{
+   display:flex;
+   padding-left: 250px;
+   align-items: center;
+}
+div.one{
+   color: red;
+}
+.one,.two,.three,.four,.five,.six{
+   color: white;
+    font-weight: 250;
+    font-size: 13px;
+    line-height: 28px;
+    height: 40px;
+    padding-left: 55px;
+    padding-top: 10px;
+    font-family:  'Open Sans',sans-serif;
+}
+.two:hover{
+   color: red;
+}
+.image1{
+   width: 100%;
+   padding-top: 5px;  
+}
+.notes{
+   color:#7a7a7a;
+   font-size:22px ;
+   font-weight: 700;
+   line-height:35.2px ;
+   text-align: center;
+   font-family: Roboto,sans-serif;
+   padding-top: 164px;
+   padding-left: 90px;
+   padding-right: 61px;
+}
+.width{
+   width: 100%;
+
+}
+.width p{
+   margin-left: 10px;
+
+}
+.note2{
+   color:#7a7a7a;
+   font-size:22px ;
+   font-weight: 700;
+   line-height:35.2px ;
+   text-align: center;
+   font-family: Roboto,sans-serif;
+   padding-top: 45px;
+}
+.image2{
+   margin: 235px;
+   margin-top: 55px;
+}
+.fb{
+   margin-right: 90px;
+   padding-left: 450px;
+   width: 35px;
+}
+.insta{
+   margin-right: 90px;
+   width: 35px;
+}
+.linkdin{
+   margin-right: 90px;
+   width: 35px;
+} 
+.youtube{
+   margin-right: 90px;
+   width: 35px;
+}
+.copyright{
+   color: #7a7a7a;
+   margin: 50px;
+   text-align: center;
+   font-family: sans-serif;
+   font-size: 13px;
+   margin-top: 200px;
+}
+a{
+   color: white;
+}
